@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "jsa.rabbitmq.host",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.rabbitmq.host'"
+  },
+  {
+    "name": "jsa.rabbitmq.routingKey",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.rabbitmq.routingKey'"
+  },
+  {
+    "name": "jsa.rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.rabbitmq.queue'"
+  },
+  {
+    "name": "jsa.rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'jsa.rabbitmq.exchange'"
+  },
+  {
+    "name": "enpoint.filesAPI",
+    "type": "java.lang.String",
+    "description": "A description for 'enpoint.filesAPI'"
+  },
+  {
+    "name": "enpoint.usersAPI",
+    "type": "java.lang.String",
+    "description": "A description for 'enpoint.usersAPI'"
+  }
+]}
